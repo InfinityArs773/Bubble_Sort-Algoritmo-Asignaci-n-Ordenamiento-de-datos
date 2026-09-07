@@ -13,7 +13,7 @@ int main()
         cout << num[i] << " ";
     }
 
-    // Hacemos el Bubble Sort con un Bucle For para recorrer los datos de menor a mayor
+    // Aplicamos el Bubble Sort para poder recorrer los datos de menor a mayor
     for (int i = 0; i < n - 1; i++)
     {
         for (int j = 0; j < n - 1 - i; j++)
